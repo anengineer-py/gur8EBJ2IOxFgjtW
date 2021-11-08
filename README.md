@@ -14,4 +14,11 @@ ana program hangiKrediDataChallenge.ipynb isimli dosyadır.
 
 anengineerHangiKrediDataChallenge.ipynb dosyasında modelin doğruluk oranı istenen veriden düşük olduğu için diğer dosyayı tekrar yazma durumunda kalmıştım.
 
+Projenin çalışan haline 
+
+https://www.kaggle.com/sbariskoksal/gur8ebj2ioxfgjtw
+
+adresinden ulaşabilirsiniz.
+
 ilgilendiğiniz için teşekkür ederim.
+
